@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - what is your organization all about?
 Two passionate gamers making the game of our dreams.
 
